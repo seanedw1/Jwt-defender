@@ -1,7 +1,7 @@
 {
-  "name": "appstore",
+  "name": "Jwt-defender",
   "version": "1.9.0",
-  "description": "fullsail appstore",
+  "description": "jsonwebtoken protected routes",
   "main": "src/server.js",
   "engines": {
     "node": "v6.3.1",
@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seanedw1/appstore.git"
+    "url": "git+https://github.com/seanedw1/Jwt-defender.git"
   },
   "author": "sean ed",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/seanedw1/appstore/issues"
+    "url": "https://github.com/seanedw1/Jwt-defender/issues"
   },
-  "homepage": "https://github.com/seanedw1/appstore#readme",
+  "homepage": "https://github.com/seanedw1/Jwt-defender#readme",
   "devDependencies": {
     "dotenv": "^2.0.0",
     "mocha": "^3.0.0",
