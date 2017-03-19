@@ -1,6 +1,4 @@
-# Jwt api
-
-[Back](https://github.com/seanedw1/Portfolio/tree/master/Node)
+# Jwt-defender
 
 Jsonwebtokens Api with protected routes
 
